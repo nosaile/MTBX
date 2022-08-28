@@ -29,6 +29,10 @@
   align-items: center;
 }
 
+.navbar-logo:hover{
+  color: aquamarine;
+}
+
 .fa-typo3 {
   margin-left: 0.5rem;
   font-size: 1.8rem;
@@ -59,7 +63,8 @@
 }
 
 .nav-links:hover {
-  border-bottom: 4px solid white;
+  color: aquamarine;
+  border-bottom: 4px solid aquamarine;
   transition: all 0.2s ease-out;
 }
 
