@@ -8,9 +8,9 @@ function HeroSection() {
         <div className="hero-container">
             <h1>Time for your next adventure</h1>
             <div className="hero-btns">
-                <Button className='btns' buttonStyle='btn--outline'
+                <Button className='btn' buttonStyle='btn--outline'
                     buttonSize='btn--large'>Get Started</Button>
-                    <Button className='btns' buttonStyle='btn--primary'
+                    <Button className='btn' buttonStyle='btn--outline'
                     buttonSize='btn--large'>Custom Trails</Button>
             </div>
         </div>
