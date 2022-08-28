@@ -39,13 +39,13 @@ function Navbar() {
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link to="/maps" className='nav-links' onClick={closeMobileMenu}>
-                                Maps
+                            <Link to="/bikes" className='nav-links' onClick={closeMobileMenu}>
+                                Bikes
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link to="/custom-trails" className='nav-links' onClick={closeMobileMenu}>
-                                Custom Trails
+                            <Link to="/trails" className='nav-links' onClick={closeMobileMenu}>
+                                Trails
                             </Link>
                         </li>
                         <li className="nav-item">
