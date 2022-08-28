@@ -1,0 +1,11 @@
+
+.hero-container{
+background: url('../../public/assets/marlin5.png') center center/cover no-repeat;
+height: 95vh;
+width: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+box-shadow: black;
+object-fit: contain;
+}
