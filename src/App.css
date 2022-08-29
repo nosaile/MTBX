@@ -17,7 +17,7 @@
 }
 
 .bikes {
-  background-image: url('../public/assets/forest-path.jpg');
+  background-image: url('../public/assets/trail3.png');
   background-position: center;
   height: 91vh;
   background-size: cover;
@@ -37,7 +37,7 @@
 }
 
 .sign-up {
-  background-image: url('../public/assets/trail3.png');
+  background-image: url('../public/assets/forest-path.jpg');
   background-position: center;
   height: 91vh;
   background-size: cover;

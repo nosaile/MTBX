@@ -11,7 +11,7 @@ function HeroSection() {
                 <Button className='btn' buttonStyle='btn--outline'
                     buttonSize='btn--large'>Get Started</Button>
                     <Button className='btn' buttonStyle='btn--outline'
-                    buttonSize='btn--large'>Custom Trails</Button>
+                    buttonSize='btn--large' path="/trails">Custom Trails</Button>
             </div>
         </div>
     )
