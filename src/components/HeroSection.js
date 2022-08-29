@@ -10,8 +10,6 @@ function HeroSection() {
             <div className="hero-btns">
                 <Button className='btn' buttonStyle='btn--outline'
                     buttonSize='btn--large'>Get Started</Button>
-                    <Button className='btn' buttonStyle='btn--outline'
-                    buttonSize='btn--large' path="/trails">Custom Trails</Button>
             </div>
         </div>
     )

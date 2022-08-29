@@ -1,8 +1,9 @@
-import React from 'react'
-import CardItem from './CardItem'
+import React from "react"
 import './Cards.css'
+import CardItem from './CardItem'
 
-function Cards() {
+
+function BikeCards() {
     return (
         <div className="cards">
             <h1>Cool Resources/Tips</h1>
@@ -39,4 +40,4 @@ function Cards() {
     )
 }
 
-export default Cards
+export default BikeCards
