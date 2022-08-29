@@ -9,11 +9,12 @@ function Cards() {
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
-                        <CardItem
-                            src="../../assets/marlin5.png"
-                            text="This Trek hardtail will get you where you need to go with style.
-                             A personal favorite and what I ride everyday. Tailored towards beginners and pros alike."
-                            label="Marlin 5"
+                    <CardItem
+                            src="../../assets/hecklersantacruz.png"
+                            text="Becoming more and more popular are e-bikes, and here is Santa Cruz's.
+                             Beautiful design, and even though it has a motor there's plenty of room for accessories.
+                            Try it out on your next ride."
+                            label="Heckler"
                             path="/bikes"
                         />
                         <CardItem
@@ -23,12 +24,13 @@ function Cards() {
                             label="SB165 Turq T2"
                             path="/bikes"
                         />
-                        <CardItem
-                            src="../../assets/heckler.jpeg"
-                            text="Becoming more and more popular are e-bikes, and here is Santa Cruz's.
-                             Beautiful design, and even though it has a motor there's plenty of room for accessories.
-                            Try it out on your next ride."
-                            label="Heckler"
+                    </ul>
+                    <ul className="cards__items">
+                    <CardItem
+                            src="../../assets/marlin5.png"
+                            text="This Trek hardtail will get you where you need to go with style.
+                              A personal favorite and what I ride everyday. Tailored towards beginners and pros alike."
+                            label="Marlin 5"
                             path="/bikes"
                         />
                     </ul>
