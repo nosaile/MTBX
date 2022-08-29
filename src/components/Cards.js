@@ -5,7 +5,7 @@ import './Cards.css'
 function Cards() {
     return (
         <div className="cards">
-            <h1>Bikes for your next Adventure</h1>
+            <h1>What to Ride</h1>
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
@@ -25,8 +25,9 @@ function Cards() {
                         />
                         <CardItem
                             src="../../assets/heckler.jpeg"
-                            text="Becoming more and more popular are the e-bikes, and here is what Santa Cruz brings to the table.
-                             Beautiful design, and even though it has a motor there's plenty of room for accessories. Try it out!"
+                            text="Becoming more and more popular are e-bikes, and here is Santa Cruz's.
+                             Beautiful design, and even though it has a motor there's plenty of room for accessories.
+                            Try it out on your next ride."
                             label="Heckler"
                             path="/bikes"
                         />
