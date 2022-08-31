@@ -8,13 +8,13 @@ function Footer() {
             <div className="footer-link-items">
                 <ul className="footer-list">
                     <li className="footer-list-item">
-                        <a href="https://www.linkedin.com/in/christopher-eliason/" target="_blank">LinkedIn</a>
+                        <a href="https://www.linkedin.com/in/christopher-eliason/" target="_blank" rel="noreferrer">LinkedIn</a>
                     </li>
                     <li className="footer-list-item">
-                        <a href="https://github.com/nosaile" target="_blank">Github</a>
+                        <a href="https://github.com/nosaile" target="_blank" rel="noreferrer">Github</a>
                     </li>
                     <li className="footer-list-item">
-                        <a href="mailto: eliason.chris1@gmail.com" target="_blank">Email</a>
+                        <a href="mailto: eliason.chris1@gmail.com" target="_blank" rel="noreferrer">Email</a>
                     </li>
                 </ul>
             </div>
